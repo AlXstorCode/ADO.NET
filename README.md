@@ -37,7 +37,7 @@ No hace falta instalar SQLite ni ningún servidor de base de datos: el paquete t
 
 1. Clonar el repositorio:
    ```bash
-   git clone <URL-del-repositorio>
+   git clone https://github.com/AlXstorCode/ADO.NET.git
    ```
 2. Abrir `Ado.netone.slnx` en Visual Studio 2026.
 3. Ejecutar con **Ctrl + F5**. Visual Studio restaura el paquete NuGet automáticamente.
@@ -45,8 +45,8 @@ No hace falta instalar SQLite ni ningún servidor de base de datos: el paquete t
 ### Desde la terminal
 
 ```bash
-git clone <URL-del-repositorio>
-cd <carpeta-del-repositorio>
+git clone https://github.com/AlXstorCode/ADO.NET.git
+cd ADO.NET
 dotnet run
 ```
 
@@ -90,4 +90,4 @@ Para empezar de cero, basta con borrar `sonicOG.db`: el programa lo vuelve a cre
 
 ## Autor
 
-Owhen Padilla. Ingeniería de Sistemas, Corporación Universitaria Americana.
+Owhen Geovanny Padilla Polanco. Ingeniería de Sistemas, Corporación Universitaria Americana.
